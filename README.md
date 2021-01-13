@@ -11,4 +11,4 @@ My roommate is Linux (he's a hamster)
 - I love my girlfriend (Even though she thinks my README sucks) 🙄
 - I love share code
 - I want to be a open source contributor
-- Learning English 
+- Learning English (Now)
