@@ -2,7 +2,7 @@
 # Hi, I'm Batman 👋 (Unfortunately I'm not)
 
 My name is Daniel, I'm frontend developer in LinkedAI. I'm a lover of science, code and mathematics. 
-My programming partner is called Linux (he's a hamster)
+My roommate is Linux (he's a hamster)
 
 
 ### Some random information about me:
