@@ -12,3 +12,5 @@ My roommate is Linux (he's a hamster)
 - I love share code
 - I want to be a open source contributor
 - Learning English (Now)
+
+![My GitHub Activity](images/userstats.svg)
