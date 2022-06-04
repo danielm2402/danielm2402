@@ -10,7 +10,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: luisfalconmx
+          user: danielm2402
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Mexico_City
