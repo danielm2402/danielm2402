@@ -13,4 +13,4 @@ My roommate is Linux (he's a hamster)
 - I want to be a open source contributor
 - Learning English (Now)
 
-![My GitHub Activity](images/userstats.svg)
+![My GitHub Activity](https://github.com/danielm2402/danielm2402/blob/main/github-metrics.svg)
