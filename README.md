@@ -14,3 +14,4 @@ My roommate is Linux (he's a hamster)
 - Learning English (Now)
 
 ![My GitHub Activity](https://github.com/danielm2402/danielm2402/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
