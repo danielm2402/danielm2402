@@ -1,12 +1,12 @@
 
-# Hi, I'm Batman 👋 (Unfortunately I'm not)
+# Hey there, I'm Daniel Munoz 👋
 
-My name is Daniel, I'm frontend developer in LinkedAI. I'm a lover of science, code and mathematics. 
-My roommate is Linux (he's a hamster)
+Calling myself Daniel, the Science Sorcerer at LinkedAI. Enthralled by the mystical realms of code, math, and all things sci-fi! 🧙‍♂️
 
 
 ### Some random information about me:
 - JavaScript Lover ❤️
+- I am a lover of machine learning and artificial intelligence
 - I love spaghetti (But no into the code) 
 - I love my girlfriend (Even though she thinks my README sucks) 🙄
 - I love share code
